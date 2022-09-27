@@ -570,6 +570,11 @@ i {
     .contact .container .info a {
         font-size: 20px;
     }
+
+    .contact .container .info p {
+        letter-spacing: -2px;
+    }
+
 }
 
 .social {
